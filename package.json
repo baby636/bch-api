@@ -36,7 +36,7 @@
     "body-parser": "^1.18.3",
     "cookie-parser": "~1.4.3",
     "cors": "^2.8.3",
-    "debug": "~4.1.1",
+    "debug": "~4.3.2",
     "dotenv": "^8.0.0",
     "electrum-cash": "^2.0.2",
     "express": "^4.15.5",
