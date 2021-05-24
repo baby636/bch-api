@@ -54,7 +54,7 @@
     "passport-http": "^0.3.0",
     "rate-limiter-flexible": "^2.0.0",
     "winston": "^3.2.1",
-    "winston-daily-rotate-file": "^4.0.0"
+    "winston-daily-rotate-file": "^4.5.3"
   },
   "devDependencies": {
     "bignumber.js": "^9.0.0",
