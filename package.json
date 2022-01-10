@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "@psf/bch-js": "^4.18.0",
-    "apidoc": "^0.26.0",
+    "apidoc": "^0.50.0",
     "axios": "^0.21.1",
     "bitcore-lib-cash": "^8.23.1",
     "body-parser": "^1.18.3",
